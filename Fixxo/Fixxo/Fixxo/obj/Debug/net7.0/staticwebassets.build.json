@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "kp6qxYicZajNKy0Iq0ncWrSMLmxAf7bbTvjJ2bBKcIg=",
+  "Source": "Fixxo",
+  "BasePath": "_content/Fixxo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Fixxo\\wwwroot",
+      "Source": "Fixxo",
+      "ContentRoot": "C:\\Users\\Mahmoud\\Desktop\\Inlamning\\Fixxo\\Fixxo\\Fixxo\\wwwroot\\",
+      "BasePath": "_content/Fixxo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Mahmoud\\Desktop\\Inlamning\\Fixxo\\Fixxo\\Fixxo\\wwwroot\\css\\site.css",
+      "SourceId": "Fixxo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mahmoud\\Desktop\\Inlamning\\Fixxo\\Fixxo\\Fixxo\\wwwroot\\",
+      "BasePath": "_content/Fixxo",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mahmoud\\Desktop\\Inlamning\\Fixxo\\Fixxo\\Fixxo\\wwwroot\\favicon.ico",
+      "SourceId": "Fixxo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mahmoud\\Desktop\\Inlamning\\Fixxo\\Fixxo\\Fixxo\\wwwroot\\",
+      "BasePath": "_content/Fixxo",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Mahmoud\\Desktop\\Inlamning\\Fixxo\\Fixxo\\Fixxo\\wwwroot\\Images\\shopping-girl.png.png",
+      "SourceId": "Fixxo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mahmoud\\Desktop\\Inlamning\\Fixxo\\Fixxo\\Fixxo\\wwwroot\\",
+      "BasePath": "_content/Fixxo",
+      "RelativePath": "Images/shopping-girl.png.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\shopping-girl.png.png"
+    },
+    {
+      "Identity": "C:\\Users\\Mahmoud\\Desktop\\Inlamning\\Fixxo\\Fixxo\\Fixxo\\wwwroot\\js\\site.js",
+      "SourceId": "Fixxo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mahmoud\\Desktop\\Inlamning\\Fixxo\\Fixxo\\Fixxo\\wwwroot\\",
+      "BasePath": "_content/Fixxo",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
